@@ -4,7 +4,8 @@ import './index.css';
 import MyList from './MyList';
 import reportWebVitals from './reportWebVitals';
 
-const toDos = ['Buy Ice Cream','Eat Ice Cream','Regret not getting dairy-free ice cream']
+const toDos = ['Buy Ice Cream','Eat Ice Cream','Regret Not Getting Dairy-Free Ice Cream'];
+
 ReactDOM.render(
   <React.StrictMode>
     <MyList theList={toDos}/>

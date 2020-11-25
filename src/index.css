@@ -22,18 +22,19 @@ body {
 
 li {
   border-bottom: 1px solid #ccc;
-  width: 200px;
+  width: 300px;
   display: block;
   margin-bottom: 20px;
+  padding-bottom: 5px;
 }
 
 div{
-  width: 500px;
+  width: 600px;
   margin: auto;
 }
 
 ul {
-  width: 200px;
+  width: 300px;
   margin: auto;
 }
 
